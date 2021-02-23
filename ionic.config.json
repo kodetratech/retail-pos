@@ -1,0 +1,7 @@
+{
+  "name": "retail-pos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
